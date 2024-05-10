@@ -18,3 +18,4 @@ Dashboard based on the following free interactive course: https://nextjs.org/lea
 - [E-commerce with Next JS - Playlist in spanish](https://www.youtube.com/playlist?list=PLCKuOXG0bPi3y7tz8Hq6itoi1vhPf6eVG)
 - [@vercel/postgres DOC](https://vercel.com/docs/storage/vercel-postgres/sdk)
 - [Learn Accesibility - web.dev](https://web.dev/learn/accessibility/)
+- [NextAuth.js](https://authjs.dev/reference/nextjs)
