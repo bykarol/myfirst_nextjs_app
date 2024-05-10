@@ -19,3 +19,4 @@ Dashboard based on the following free interactive course: https://nextjs.org/lea
 - [@vercel/postgres DOC](https://vercel.com/docs/storage/vercel-postgres/sdk)
 - [Learn Accesibility - web.dev](https://web.dev/learn/accessibility/)
 - [NextAuth.js](https://authjs.dev/reference/nextjs)
+- [Explore Next JS](https://nextjs.org/learn/dashboard-app/next-steps)
