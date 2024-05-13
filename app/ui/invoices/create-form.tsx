@@ -129,7 +129,7 @@ export default function Form({ customers }: { customers: CustomerField[] }) {
               </p>
             ))}
         </div>
-        <div id="state-message" aria-atomic="true">
+        <div id="state-message" aria-live="polite" aria-atomic="true">
           {state.message &&
             <p className="mt-2 text-sm text-red-500">
               {state.message}
