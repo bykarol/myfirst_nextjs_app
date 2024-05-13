@@ -22,7 +22,9 @@ Dashboard based on the following free interactive course: https://nextjs.org/lea
 - [Explore Next JS](https://nextjs.org/learn/dashboard-app/next-steps)
 
 ## Try it out
-Using the following credentials:
+[Link to the site](https://nextjs-dashboard-beta-silk-13.vercel.app/dashboard)
+
+### Use the following credentials:
 
 - Email: user@nextmail.com
 - Password: 123456
